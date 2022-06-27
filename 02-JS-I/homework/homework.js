@@ -162,6 +162,10 @@ function elevarAlCuadrado(num) {
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
+  function elevarALCubo(num){
+    (num * num * num)
+    valor = (num * num * num);
+  }
   
 }
 
