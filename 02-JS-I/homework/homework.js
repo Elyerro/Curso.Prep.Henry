@@ -153,7 +153,10 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
-  
+  function elevarAlCuadrado(num){
+    (num * num);
+    valor = (num * num);
+  }
 }
 
 function elevarAlCubo(num) {
